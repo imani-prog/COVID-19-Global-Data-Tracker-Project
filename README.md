@@ -13,7 +13,7 @@ This project explores the spread, trends, and impact of COVID-19 across differen
 
 ---
 
-## 🛠 Tools and Libraries Used
+##  Tools and Libraries Used
 - **Python 3**
 - **Pandas** – for data manipulation
 - **NumPy** – for numerical operations
