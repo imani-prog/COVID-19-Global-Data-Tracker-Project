@@ -32,8 +32,8 @@ This project explores the spread, trends, and impact of COVID-19 across differen
 ---
 
 ## Insights and Reflections
-  Countries with early and widespread vaccination showed slower growth in cases and deaths.
-  Death tolls often lag behind peaks in case counts, emphasizing the need for timely response.
-  Accurate and consistent data reporting varies significantly across countries.
-  Visual analytics is crucial in understanding health trends and supporting data-driven decisions.
+  1.Countries with early and widespread vaccination showed slower growth in cases and deaths.
+  2.Death tolls often lag behind peaks in case counts, emphasizing the need for timely response.
+  3.Accurate and consistent data reporting varies significantly across countries.
+  4.Visual analytics is crucial in understanding health trends and supporting data-driven decisions.
 
