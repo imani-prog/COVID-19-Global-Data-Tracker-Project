@@ -3,7 +3,7 @@
 ## Project Description
 This project explores the spread, trends, and impact of COVID-19 across different countries using data from [Our World in Data](https://ourworldindata.org/coronavirus). It provides visual analysis on cases, deaths, and vaccination progress to understand the evolution of the pandemic globally.
 
----
+
 
 ## Objectives of the Project
 - Track global COVID-19 trends in real time.
